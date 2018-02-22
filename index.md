@@ -30,6 +30,10 @@ Estudiante de Ingeniería de sistemas y computación de la Universidad Nacional 
 - Ruby on Rails
 - Angular 2.0
  
+### Gestor de contenidos 
+
+- Typo3
+
 ### Databases
 
 - MySQL
