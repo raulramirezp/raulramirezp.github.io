@@ -38,6 +38,6 @@ Estudiante de Ingeniería de sistemas y computación de la Universidad Nacional 
 
 ## Work experience
 
-- Administrador de Clúster linux del grupo de investigación [GOIC] ( http://ciencias.bogota.unal.edu.co/gruposdeinvestigacion/grupo-de-optica-e-informacion-cuantica/ ) de la facultad de ciencias de la UNal
+- Administrador de Clúster linux del grupo de investigación [GOIC] (http://ciencias.bogota.unal.edu.co/gruposdeinvestigacion/grupo-de-optica-e-informacion-cuantica/) de la facultad de ciencias de la UNal
 
 
